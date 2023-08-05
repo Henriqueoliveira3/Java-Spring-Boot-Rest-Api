@@ -1,0 +1,1 @@
+UPDATE medicos set ativo = 1;
